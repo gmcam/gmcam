@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Soy de Asunción, Paraguay<br><br>- 📚 Actualmente, estudio Ingeniería en Informática y una tecnicatura en desarrollo de software.<br>- 👩🏻‍🎓 Cuento con diplomado en ciberseguridad, lo cual me permite desempeñar funciones de un analista junior.</p>
+<p align="left">Soy de Asunción, Paraguay<br><br>- 📚 Actualmente, estudio Ingeniería en Informática<br>- 👩🏻‍🎓 Cuento con diplomado en ciberseguridad, lo cual me permite desempeñar funciones de un analista junior.</p>
 
 ###
 
@@ -31,9 +31,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<h3 align="left">📈   Mis estadísticas:</h3>
 
 ###
