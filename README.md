@@ -11,7 +11,7 @@
 ###
 <h3 align="left">👩‍💻  Sobre mi:</h3>
 
-<p align="left">📚 Estudiante de Ingeniería Informática con entusiasmo por el desarrollo web y la seguridad.
+<p align="left">📚 Estudiante de Ingeniería Informática con entusiasmo por el desarrollo web y la ciberseguridad.
   <p align="left"> 
     </p>
 
