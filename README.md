@@ -12,7 +12,9 @@
 <h3 align="left">👩‍💻  Sobre mi:</h3>
 
 <p align="left">📚 Estudiante de Ingeniería Informática con entusiasmo por el desarrollo web y la ciberseguridad.
-   📚 Analista Jr. de Ciberseguridad
+  <p align="left"> 📚 Analista Jr. de Ciberseguridad.
+    </p>
+
 </p>
 
 ###
