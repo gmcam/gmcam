@@ -3,12 +3,14 @@
 </div>
 
 ###
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gmcam_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/camila-gimenez-it) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cgmorel@outlook.com) 
 <h3 align="left">👩‍💻  Sobre mi: </h3>
 
 ###
 
-<p align="left">Soy de Asunción, Paraguay<br><br>- 📚 Actualmente, estudio Ingeniería en Informática<br>- 👩🏻‍🎓 Cuento con diplomado en ciberseguridad, lo cual me permite desempeñar funciones de un analista junior.</p>
+<p align="left">📚 Estudiante de Ingeniería Informática con entusiasmo por el desarrollo web y la ciberseguridad. ¡Explorando el mundo del código y la seguridad!
+</p>
 
 ###
 
@@ -20,13 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gmcam&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gmcam&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmcam&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
