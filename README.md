@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2jHNMiAag8pCNDEMfJ/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2jHNMiAag8pCNDEMfJ/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2jHNMiAag8pCNDEMfJ/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2jHNMiAag8pCNDEMfJ/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FuMDZqazduNDQ1ODRwc3FubTFuOWNqMzN3d2VuanU4N3htczc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2jHNMiAag8pCNDEMfJ/giphy.gif"  />
+<img src="[https://i.imgur.com/weNbhGZ.png](https://drive.google.com/file/d/1pj6KjGOV7Z6KWX5TSI8q_HUkz6izKdO1/view?usp=drive_link)">
 </div>
-
-###
-
-<h1 align="center"> ¡Hola 🙋🏻‍♀️! </h1>
 
 ###
 
