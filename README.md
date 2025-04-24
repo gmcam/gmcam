@@ -27,8 +27,11 @@
  <h3 align="left">📊 GitHub Stats:</h3>
 
   
+<div align="left">
+  
 ![](https://github-readme-stats.vercel.app/api?username=gmcam&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://nirzak-streak-stats.vercel.app/?user=gmcam&theme=calm_pink&hide_border=false) <br> <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmcam&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
 
 </p>
 
