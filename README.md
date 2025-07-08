@@ -19,9 +19,9 @@
 
 <h3 align="left">🏅 Badges</h3>
 
-<div align="right">
+<div align="left">
   <a href="https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url" target="_blank">
-    <img src="https://github.com/gmcam/gmcam/blob/main/badge-cybersegjr.png" alt="Cisco Certified" height="100" />
+    <img src="https://github.com/gmcam/gmcam/blob/main/badge-cybersegjr.png" />
   </a>
 </div>
 
