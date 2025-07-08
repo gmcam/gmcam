@@ -19,8 +19,7 @@
 
 <h3 align="left"> 🏅 Badges </h3>
 
-[![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-blue?logo=cisco&style=for-the-badge)](https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-New%20User-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/tu_usuario)
+[![Cisco Certified](https://github.com/gmcam/gmcam/blob/main/badge-cybersegjr.png)]([https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url](https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url))
 
 ###
 
