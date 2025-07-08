@@ -19,7 +19,7 @@
 
 <h3 align="left"> 🏅 Badges </h3>
 
-[![Cisco Certified](https://github.com/gmcam/gmcam/blob/main/badge-cybersegjr.png)]([https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url](https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url))
+[![Cisco Certified](https://github.com/gmcam/gmcam/blob/main/badge1.png)]([https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url](https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url))
 
 ###
 
