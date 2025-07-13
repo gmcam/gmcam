@@ -24,10 +24,12 @@
   <a href="https://www.credly.com/badges/d619c89f-5bf5-411d-9182-9997d7e3b006/public_url" target="_blank">
     <img src="https://github.com/gmcam/gmcam/blob/main/badge-cybersegjr.png?raw=true" alt="Cisco Badge" width="120" height="120" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://badgr.com/public/assertions/pOBmhEstRKKvpv6AX5-LMA" target="_blank">
     <img src="https://api.badgr.io/public/assertions/pOBmhEstRKKvpv6AX5-LMA/image" alt="Badgr Badge" width="120" height="120" />
   </a>
+</div>
+
 
 
 </div>
